@@ -18,3 +18,15 @@ Running 'dotnet restore' on DatingApp.API\DatingApp.API.csproj...
 Restore succeeded.
 
 
+
+---------
+
+
+Installing C# dependencies...
+Platform: win32, x86_64
+
+Downloading package 'OmniSharp for Windows (.NET 4.6 / x64)' (31021 KB)..................
+
+
+
+
