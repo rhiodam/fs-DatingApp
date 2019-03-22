@@ -1,0 +1,20 @@
+
+PS D:\Users\rhiodam\fullstack\dotnet ng\fs-DatingApp> dotnet new webapi -o DatingApp.API -n DatingApp.API
+The template "ASP.NET Core Web API" was created successfully.
+This template contains technologies from parties other than Microsoft, see https://aka.ms/template-3pn for details.
+
+Processing post-creation actions...
+Running 'dotnet restore' on DatingApp.API\DatingApp.API.csproj...
+  Restoring packages for D:\Users\rhiodam\fullstack\dotnet ng\fs-DatingApp\DatingApp.API\DatingApp.API.csproj...
+  Restore completed in 8.3 sec for D:\Users\rhiodam\fullstack\dotnet ng\fs-DatingApp\DatingApp.API\DatingApp.API.csproj.
+
+  Generating MSBuild file D:\Users\rhiodam\fullstack\dotnet ng\fs-DatingApp\DatingApp.API\obj\DatingApp.API.csproj.nuget
+.g.props.
+  Generating MSBuild file D:\Users\rhiodam\fullstack\dotnet ng\fs-DatingApp\DatingApp.API\obj\DatingApp.API.csproj.nuget
+.g.targets.
+  Restore completed in 1.51 min for D:\Users\rhiodam\fullstack\dotnet ng\fs-DatingApp\DatingApp.API\DatingApp.API.csproj
+.
+
+Restore succeeded.
+
+
